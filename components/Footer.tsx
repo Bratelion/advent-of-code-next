@@ -3,8 +3,8 @@ import Link from "next/link";
 
 const Footer = () => {
   return (
-    <footer className="max-w-md px-4 py-6 mx-auto overflow-hidden md:py-8 lg:py-12 sm:px-6 lg:px-8">
-      <div className="flex flex-col gap-6">
+    <footer className="max-w-md px-4 py-6 mx-auto overflow-hidden md:py-8 lg:py-12 sm:px-6 lg:px-8" >
+      <div className="flex flex-col gap-2">
         <p className="flex items-center justify-center text-base text-zinc-400 gap-x-2">
           <a
             href="https://github.com/MartinSeeler/advent-of-code-next"
@@ -12,7 +12,7 @@ const Footer = () => {
             rel="noopener noreferrer"
             className="a-defaults"
           >
-            View on GitHub
+            View template on GitHub
           </a>
         </p>
         <p className="flex items-center justify-center text-base text-zinc-400 gap-x-2">

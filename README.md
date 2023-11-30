@@ -1,3 +1,5 @@
+Using the template of https://github.com/MartinSeeler/advent-of-code-next.
+
 <a href="https://www.buymeacoffee.com/seeler" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;" ></a>
 
 # Advent of Code 2022
